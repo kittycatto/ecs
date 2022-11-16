@@ -1,5 +1,3 @@
-module github.com/EngoEngine/ecs
+module github.com/kittycatto/ecs
 
-go 1.14
-
-require github.com/stretchr/testify v1.6.1
+go 1.18
